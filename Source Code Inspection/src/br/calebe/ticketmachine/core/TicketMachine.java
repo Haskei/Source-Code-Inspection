@@ -3,7 +3,7 @@ package br.calebe.ticketmachine.core;
 import br.calebe.ticketmachine.exception.PapelMoedaInvalidaException;
 import br.calebe.ticketmachine.exception.SaldoInsuficienteException;
 import java.util.Iterator;
-
+/**issue: inicialização, função achou nunca  foi definida/
 /**
  *
  * @author Calebe de Paula Bianchini
